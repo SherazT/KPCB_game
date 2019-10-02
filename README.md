@@ -17,6 +17,6 @@ Follow the steps below to create a virtual environment and run the program.\
 `pip install -r requirements.txt`\
 `python3.6 Memory_Match.py`
 
-<b>Linux/Ubuntu Instructions: </b>
-
+<b>Linux/Ubuntu Instructions: </b> \
+`pip install -r requirements.txt` \
 `python Memory_Match.py`
