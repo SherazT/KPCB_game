@@ -1,6 +1,6 @@
 # KPCB_game
 
-MAC Instructions: \
+<b>MAC Instructions:</b> 
 
 `pip install -r requirements.txt` \
 `python Memory_Match.py`
@@ -17,6 +17,6 @@ Follow the steps below to create a virtual environment and run the program.\
 `pip install -r requirements.txt`\
 `python3.6 Memory_Match.py`
 
-Linux/Ubuntu Instructions: \
+<b>Linux/Ubuntu Instructions: </b>
 
 `python Memory_Match.py`
