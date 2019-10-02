@@ -1,4 +1,4 @@
-# KPCB_game
+# KPCB Game Instructions
 
 <b>MAC Instructions:</b> 
 
